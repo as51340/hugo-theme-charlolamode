@@ -66,7 +66,7 @@ params:
         - name: github
           url: "https://github.com/charlola"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/andi-skrgat-658b471b8/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
